@@ -5,5 +5,5 @@ read var
 
 
 git add .
-git commit -m {"new task"}
+git commit -m "${test}"
 git push
