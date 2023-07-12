@@ -1,9 +1,0 @@
-#!/bin/bash
-
-echo "input message"
-read var 
-
-
-git add .
-git commit -m "${test}"
-git push
